@@ -1,0 +1,19 @@
+{
+  "name": "merger",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/operatorjen/merger.git"
+  },
+  "license": "AGPL-3.0-or-later",
+  "author": "operatorjen",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node index.test.mjs"
+  },
+  "dependencies": {
+    "dotenv": "*"
+  }
+}
